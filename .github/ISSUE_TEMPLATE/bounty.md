@@ -9,11 +9,9 @@ assignees: ''
 
 ## Reward 10.000 SIGNA
 ---------------------------------------------------------------
-**Brief description here**
-Brief description
+Brief description here
 ---------------------------------------------------------------
-**Full description here**
-Longer Description
+Longer Description here
 ---------------------------------------------------------------
 **Definition of Done**
 
@@ -25,3 +23,5 @@ Describe here what are the requirements such that the bounty is considered "done
 - [ ] Requirement 2
 - [ ] Requirement 3
 ...
+
+> Do not forget to link this issue to the bounty project!
